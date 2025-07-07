@@ -1,0 +1,92 @@
+{
+    "padel_courts": [
+        {
+            "Bookings": {
+                "2025-05": {
+                    "10": [
+                        true,
+                        ""
+                    ]
+                },
+                "2025-05-06": {
+                    "16": [
+                        true,
+                        ""
+                    ]
+                },
+                "2025-05-07": {
+                    "12": [
+                        true,
+                        ""
+                    ]
+                },
+                "2025-05-19": {
+                    "10": [
+                        true,
+                        ""
+                    ]
+                }
+            },
+            "EndTime": 22,
+            "StartTime": 9,
+            "courtID": 1,
+            "location": "Downtown Sports Club"
+        },
+        {
+            "Bookings": null,
+            "EndTime": 22,
+            "StartTime": 9,
+            "courtID": 2,
+            "location": "Riverside Padel Center"
+        },
+        {
+            "Bookings": null,
+            "EndTime": 21,
+            "StartTime": 10,
+            "courtID": 3,
+            "location": "Greenfield Athletic Club"
+        },
+        {
+            "Bookings": null,
+            "EndTime": 20,
+            "StartTime": 8,
+            "courtID": 4,
+            "location": "Westside Padel Arena"
+        },
+        {
+            "Bookings": null,
+            "EndTime": 22,
+            "StartTime": 9,
+            "courtID": 5,
+            "location": "Central City Sports Complex"
+        },
+        {
+            "Bookings": null,
+            "EndTime": 20,
+            "StartTime": 10,
+            "courtID": 6,
+            "location": "Eastside Padel Club"
+        },
+        {
+            "Bookings": null,
+            "EndTime": 22,
+            "StartTime": 9,
+            "courtID": 7,
+            "location": "Cairo"
+        },
+        {
+            "Bookings": {
+                "2025-05-19": {
+                    "10": [
+                        true,
+                        ""
+                    ]
+                }
+            },
+            "EndTime": 21,
+            "StartTime": 9,
+            "courtID": 8,
+            "location": "Giza"
+        }
+    ]
+}

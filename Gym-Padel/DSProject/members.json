@@ -1,0 +1,221 @@
+{
+    "members": [
+        {
+            "booked_courts": null,
+            "classes": null,
+            "date_of_birth": "",
+            "id": 0,
+            "inbox": [],
+            "is_VIP": false,
+            "name": "",
+            "notifications": [],
+            "password": "",
+            "workouts": []
+        },
+        {
+            "booked_courts": {
+                "8": [
+                    {
+                        "date": "2025-05-19",
+                        "duration": 10
+                    }
+                ]
+            },
+            "classes": null,
+            "date_of_birth": "2000-01-01",
+            "id": 1,
+            "inbox": [
+                "You have successfully joined class ID: 1"
+            ],
+            "is_VIP": true,
+            "name": "Admin",
+            "notifications": [
+                "Special Offer: Renew your subscription for class ID 1 now for 10% discount!"
+            ],
+            "password": "admin123",
+            "workouts": [
+                "2025-05-18: 66"
+            ]
+        },
+        {
+            "booked_courts": null,
+            "classes": {
+                "3": {
+                    "class_name": "wewa",
+                    "expiry_date": "2025-07-18",
+                    "join_date": "2025-05-19"
+                }
+            },
+            "date_of_birth": "1990-05-15",
+            "id": 2,
+            "inbox": [
+                "You have successfully joined class ID: 1",
+                "URGENT: Subscription for class ID 1 has expired!",
+                "Class ID: 1 has been automatically cancelled due to expired subscription"
+            ],
+            "is_VIP": false,
+            "name": "John Doe",
+            "notifications": [
+                "URGENT: Subscription for class ID 1 has expired!"
+            ],
+            "password": "member123",
+            "workouts": []
+        },
+        {
+            "booked_courts": null,
+            "classes": {
+                "3": {
+                    "class_name": "zumba",
+                    "expiry_date": "2025-07-18",
+                    "join_date": "2025-05-19"
+                }
+            },
+            "date_of_birth": "11-02-2005",
+            "id": 3,
+            "inbox": [],
+            "is_VIP": true,
+            "name": "pola",
+            "notifications": [
+                "URGENT: Subscription for class ID 2 has expired!"
+            ],
+            "password": "123",
+            "workouts": []
+        },
+        {
+            "booked_courts": null,
+            "classes": {
+                "3": {
+                    "class_name": "wewa",
+                    "expiry_date": "2025-07-18",
+                    "join_date": "2025-05-19"
+                }
+            },
+            "date_of_birth": "2005-16-12",
+            "id": 7,
+            "inbox": [
+                "You have successfully joined class ID: 1",
+                "Class ID: 1 has been automatically cancelled due to expired subscription",
+                "You ve been added to class zumba"
+            ],
+            "is_VIP": true,
+            "name": "beshoy",
+            "notifications": [],
+            "password": "123456",
+            "workouts": []
+        },
+        {
+            "booked_courts": null,
+            "classes": null,
+            "date_of_birth": "2000-12-7",
+            "id": 9,
+            "inbox": [
+                "You have successfully joined class ID: 2",
+                "Class ID: 2 has been automatically cancelled due to expired subscription",
+                "Subscription renewed for class ID: 3 until 2025-07-18"
+            ],
+            "is_VIP": true,
+            "name": "karam",
+            "notifications": [],
+            "password": "mmaa",
+            "workouts": []
+        },
+        {
+            "booked_courts": null,
+            "classes": null,
+            "date_of_birth": "2004-09-14",
+            "id": 13,
+            "inbox": [],
+            "is_VIP": true,
+            "name": "bishoy_amgad",
+            "notifications": [],
+            "password": "0",
+            "workouts": []
+        },
+        {
+            "booked_courts": null,
+            "classes": null,
+            "date_of_birth": "1",
+            "id": 15,
+            "inbox": [],
+            "is_VIP": true,
+            "name": "1",
+            "notifications": [],
+            "password": "1",
+            "workouts": []
+        },
+        {
+            "booked_courts": null,
+            "classes": null,
+            "date_of_birth": "9",
+            "id": 17,
+            "inbox": [],
+            "is_VIP": true,
+            "name": "9",
+            "notifications": [],
+            "password": "9",
+            "workouts": []
+        },
+        {
+            "booked_courts": null,
+            "classes": null,
+            "date_of_birth": "11",
+            "id": 19,
+            "inbox": [],
+            "is_VIP": true,
+            "name": "pola",
+            "notifications": [],
+            "password": "0000",
+            "workouts": []
+        },
+        {
+            "booked_courts": null,
+            "classes": null,
+            "date_of_birth": "2007-09-29",
+            "id": 21,
+            "inbox": [
+                "You've been promoted from VIP waitlist to class: wewa"
+            ],
+            "is_VIP": true,
+            "name": "looza",
+            "notifications": [
+                "You've been promoted from VIP waitlist to class: wewa"
+            ],
+            "password": "0000",
+            "workouts": []
+        },
+        {
+            "booked_courts": null,
+            "classes": null,
+            "date_of_birth": "2000-05-04",
+            "id": 23,
+            "inbox": [],
+            "is_VIP": false,
+            "name": "kok",
+            "notifications": [],
+            "password": "1212",
+            "workouts": []
+        },
+        {
+            "booked_courts": null,
+            "classes": {
+                "3": {
+                    "class_name": "wewa",
+                    "expiry_date": "2025-07-18",
+                    "join_date": "2025-05-19"
+                }
+            },
+            "date_of_birth": "2008-06-06",
+            "id": 25,
+            "inbox": [
+                "You've been promoted from regular waitlist to class: wewa"
+            ],
+            "is_VIP": false,
+            "name": "gogo",
+            "notifications": [
+                "You've been promoted from regular waitlist to class: wewa"
+            ],
+            "password": "1111",
+            "workouts": []
+        }
+    ]
+}

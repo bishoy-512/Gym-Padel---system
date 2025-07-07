@@ -1,0 +1,37 @@
+{
+    "classes": [
+        {
+            "capacity": 2,
+            "coachName": "Coach John",
+            "coach_id": 101,
+            "dateAndTime": "2023-12-01 10:00",
+            "id": 1,
+            "listOfMembers": {
+                "7": "beshoy",
+                "9": "karam"
+            },
+            "size": 2,
+            "title": "Yoga",
+            "wait_list": [],
+            "wait_list_vip": [
+                3
+            ]
+        },
+        {
+            "capacity": 3,
+            "coachName": "",
+            "coach_id": 1,
+            "dateAndTime": "1",
+            "id": 3,
+            "listOfMembers": {
+                "2": "John Doe",
+                "25": "gogo",
+                "7": "beshoy"
+            },
+            "size": 3,
+            "title": "wewa",
+            "wait_list": [],
+            "wait_list_vip": []
+        }
+    ]
+}

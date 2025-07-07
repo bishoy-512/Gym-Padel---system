@@ -1,0 +1,40 @@
+{
+    "court_templates": [
+        {
+            "courtID": 1,
+            "location": "Downtown Sports Club",
+            "StartTime": 9,
+            "EndTime": 22
+        },
+        {
+            "courtID": 2,
+            "location": "Riverside Padel Center",
+            "StartTime": 9,
+            "EndTime": 22
+        },
+        {
+            "courtID": 3,
+            "location": "Greenfield Athletic Club",
+            "StartTime": 10,
+            "EndTime": 21
+        },
+        {
+            "courtID": 4,
+            "location": "Westside Padel Arena",
+            "StartTime": 8,
+            "EndTime": 20
+        },
+        {
+            "courtID": 5,
+            "location": "Central City Sports Complex",
+            "StartTime": 9,
+            "EndTime": 22
+        },
+        {
+            "courtID": 6,
+            "location": "Eastside Padel Club",
+            "StartTime": 10,
+            "EndTime": 20
+        }
+    ]
+}
